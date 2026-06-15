@@ -10,7 +10,7 @@
   "price": "920 EUR",
   "weakness": "La web transmite catalogo de servicios, pero no posiciona la consultoria como decision de confianza para empresas y comunidades.",
   "value_signal": "Asesoria, despacho de abogados, fiscal/laboral, administracion de fincas y dos oficinas en area Madrid.",
-  "demo_url": null,
-  "github_url": null,
+  "demo_url": "https://demo-madrid-asesoria-alcor.vercel.app",
+  "github_url": "https://github.com/AlfonsoCifuentes/demo-madrid-asesoria-alcor",
   "outreach_status": "drafted_not_sent"
 }

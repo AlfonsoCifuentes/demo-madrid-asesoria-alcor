@@ -12,3 +12,8 @@ Punto debil trabajado:
 La web transmite catalogo de servicios, pero no posiciona la consultoria como decision de confianza para empresas y comunidades.
 
 Stack: HTML estatico, CSS embebido y vercel.json para despliegue en Vercel.
+
+## Publicacion
+
+- GitHub: https://github.com/AlfonsoCifuentes/demo-madrid-asesoria-alcor
+- Vercel: https://demo-madrid-asesoria-alcor.vercel.app
