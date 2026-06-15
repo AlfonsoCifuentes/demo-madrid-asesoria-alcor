@@ -12,5 +12,9 @@
   "value_signal": "Asesoria, despacho de abogados, fiscal/laboral, administracion de fincas y dos oficinas en area Madrid.",
   "demo_url": "https://demo-madrid-asesoria-alcor.vercel.app",
   "github_url": "https://github.com/AlfonsoCifuentes/demo-madrid-asesoria-alcor",
-  "outreach_status": "drafted_not_sent"
+  "outreach_status": "queued_pending",
+  "outreach_queue_id": "hermes-webdemo-20260615-008",
+  "outreach_version": "hermes-prepared-custom-v1-20260615",
+  "outreach_contact_type": "email corporativo publico decodificado del aviso legal Joomla",
+  "proposed_price": "920 EUR"
 }
